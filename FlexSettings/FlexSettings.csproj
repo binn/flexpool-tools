@@ -8,6 +8,8 @@
     <Version>1.1.0</Version>
     <Product>Flexpool.io payout settings agent</Product>
     <PackageProjectUrl>https://github.com/binn/flexpool-tools</PackageProjectUrl>
+    <PackageId>flex-settings-agent</PackageId>
+    <Authors>Sarmad Wahab</Authors>
   </PropertyGroup>
 
   <ItemGroup>
