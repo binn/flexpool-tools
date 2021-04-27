@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexWyze", "FlexWyze\FlexWyze.csproj", "{F8B8A576-7E3A-4B83-9685-15539FBD504C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexSettings", "FlexSettings\FlexSettings.csproj", "{EA586461-3EA1-4465-9CEA-E5F5122BEA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B8A576-7E3A-4B83-9685-15539FBD504C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B8A576-7E3A-4B83-9685-15539FBD504C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B8A576-7E3A-4B83-9685-15539FBD504C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B8A576-7E3A-4B83-9685-15539FBD504C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA586461-3EA1-4465-9CEA-E5F5122BEA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA586461-3EA1-4465-9CEA-E5F5122BEA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA586461-3EA1-4465-9CEA-E5F5122BEA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA586461-3EA1-4465-9CEA-E5F5122BEA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA41469C-1D93-4C8E-AF38-1DCF3BDA055A}
+	EndGlobalSection
+EndGlobal
